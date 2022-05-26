@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MisRedesSocialesFB</string>
+    <string name="facebook_app_id">531408171714634</string>
+    <string name="fb_login_protocol_scheme">fb531408171714634</string>
+    <string name="facebook_client_token">a7c01770806f4d387b3baff1626b2235</string>
+</resources>
